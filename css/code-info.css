@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+}
+
+.container .code-info{
+    display: table-row;
+    margin-top: 5.09px;
+    margin-left: 64px;
+}
+.container .code-info .line1{
+    display: flex;
+    align-items: center;
+    margin-inline-start: 3px;
+}
+
+
+
+.container-2{
+    display: flex;
+}
